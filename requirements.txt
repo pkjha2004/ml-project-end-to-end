@@ -9,4 +9,5 @@ scikit_learn
 memory_profiler
 jupyter
 plotly
--e .
+dill
+#-e .
