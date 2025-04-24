@@ -10,4 +10,6 @@ memory_profiler
 jupyter
 plotly
 dill
+xgboost
+catboost
 #-e .
